@@ -1,2 +1,1 @@
-# snu-ai-course-mba
-Generative AI for Managerial Decision-Making
+# Generative AI for Managerial Decision-Making
