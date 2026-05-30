@@ -4,5 +4,5 @@
 Prompt Engineering
 
 ## Class 2
-Prompt Engineering
+Prompt Engineering   
 Using LLM APIs for Business Automation and Operations
