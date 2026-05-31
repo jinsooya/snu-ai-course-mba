@@ -6,7 +6,7 @@ Prompt Engineering
 ## Class 2
 Prompt Engineering   
 Using LLM APIs for Business Automation and Operations
-- [Open in Colab](https://colab.research.google.com/github/jinsooya/snu-ai-course-mba/blob/main/01-1o_llm-api-driven-workflow-automation-text-generation-summary-keyword-extraction-output.ipynb)
+- [Open in Colab: 01-1_llm-api-driven-workflow-automation-text-generation-summary-keyword-extraction.ipynb](https://colab.research.google.com/github/jinsooya/snu-ai-course-mba/blob/main/01-1_llm-api-driven-workflow-automation-text-generation-summary-keyword-extraction.ipynb)
 - 01-1_llm-api-driven-workflow-automation-text-generation-summary-keyword-extraction.ipynb
 - 01-2_llm-api-driven-workflow-automation-text-classification-entity-identification.ipynb
 - 01-3_llm-api-driven-workflow-automation-text-modification-conversion-inference.ipynb
