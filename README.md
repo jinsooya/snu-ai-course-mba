@@ -13,6 +13,7 @@ Using LLM APIs for Business Automation and Operations
 ## Class 3
 Using LLM APIs for Business Automation and Operations
 - 01-4_llm-api-driven-workflow-automation-programming-function-calling.ipynb
-- 01-5_llm-api-driven-workflow-automation-react.ipynb 
+- 01-5_llm-api-driven-workflow-automation-react.ipynb
+- [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/01-5_llm-api-driven-workflow-automation-react.ipynb)
 
 Principles of LLM Workflow Design 
