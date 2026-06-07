@@ -18,10 +18,9 @@ Using LLM APIs for Business Automation and Operations
 
 - 02_llm-api-driven-workflow-automation-text-classification-entity-identification.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/02_llm-api-driven-workflow-automation-text-classification-entity-identification.ipynb)
 - 03_llm-api-driven-workflow-automation-text-modification-conversion-inference.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/03_llm-api-driven-workflow-automation-text-modification-conversion-inference.ipynb)
-- 04_llm-api-driven-workflow-automation-programming-function-calling.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/04_llm-api-driven-workflow-automation-programming-function-calling.ipynb)
-- 05_llm-api-driven-workflow-automation-react.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/05_llm-api-driven-workflow-automation-react.ipynb)
 
 Principles of LLM Workflow Design
 
 - 06_langchain-a-quick-walkthrough.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/06_langchain-a-quick-walkthrough.ipynb)
 - 07_structured-outputs.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/07_structured-outputs.ipynb)
+- 08_agents-primer-tools-memory-langchain.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/08_agents-primer-tools-memory-langchain.ipynb)
