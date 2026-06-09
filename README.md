@@ -17,7 +17,6 @@ Using LLM APIs for Business Automation and Operations
 Using LLM APIs for Business Automation and Operations
 
 - 02_llm-api-driven-workflow-automation-text-classification-entity-identification.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/02_llm-api-driven-workflow-automation-text-classification-entity-identification.ipynb)
-- 03_llm-api-driven-workflow-automation-text-modification-conversion-inference.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/03_llm-api-driven-workflow-automation-text-modification-conversion-inference.ipynb)
 
 Principles of LLM Workflow Design
 
