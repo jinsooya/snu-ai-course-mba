@@ -21,5 +21,8 @@ Using LLM APIs for Business Automation and Operations
 Principles of LLM Workflow Design
 
 - 06_langchain-a-quick-walkthrough.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/06_langchain-a-quick-walkthrough.ipynb)
+
+## Class 4
+
 - 07_structured-outputs.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/07_structured-outputs.ipynb)
 - 08_agents-primer-tools-memory-langchain.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/08_agents-primer-tools-memory-langchain.ipynb)
