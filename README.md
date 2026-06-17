@@ -47,3 +47,16 @@ Retrieval-Augmented Generation (RAG)
 
 - 18_financial-document-analysis-10k-vectorstore-backed-retrieval.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/18_financial-document-analysis-10k-vectorstore-backed-retrieval.ipynb)
 - 19_financial-document-analysis-10k-langchain.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/19_financial-document-analysis-10k-langchain.ipynb)
+
+
+## Class 6
+
+Multi-Agent Systems and Orchestration: Research and Data Analysis Agents
+
+- 21_agentic-search.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/21_agentic-search.ipynb)
+- 22_data-analysis-deepagents-filesystem.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/22_data-analysis-deepagents-filesystem.ipynb)
+- 23_chart-generation-multi-agent-orchestrator-worker-pattern-display.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/23_chart-generation-multi-agent-orchestrator-worker-pattern-display.ipynb)
+- 24_agent-rfm-analysis-superstore.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/24_agent-rfm-analysis-superstore.ipynb)
+- 25_agent-channel-preference-analysis-marketing-campaign.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/25_agent-channel-preference-analysis-marketing-campaign.ipynb)
+- 26_agent-churn-risk-prediction-classification-superstore.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/26_agent-churn-risk-prediction-classification-superstore.ipynb)
+- 27_agent-unsupervised-customer-segmentation-k-means-clustering-marketing-campaign.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/27_agent-unsupervised-customer-segmentation-k-means-clustering-marketing-campaign.ipynb)
