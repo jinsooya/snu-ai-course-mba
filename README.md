@@ -24,5 +24,26 @@ Principles of LLM Workflow Design
 
 ## Class 4
 
+Principles of LLM Workflow Design
+
 - 07_structured-outputs.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/07_structured-outputs.ipynb)
+
+Introduction to AI Agents
+
 - 08_agents-primer-tools-memory-langchain.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/08_agents-primer-tools-memory-langchain.ipynb)
+
+
+## Class 5
+
+Chatbot Agents and Conversational Automation for Customer Interaction
+
+- 13_chatbot-summarization.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/13_chatbot-summarization.ipynb)
+
+Understanding Embeddings
+
+- 17_embeddings.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/17_embeddings.ipynb)
+
+Retrieval-Augmented Generation (RAG)
+
+- 18_financial-document-analysis-10k-vectorstore-backed-retrieval.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/18_financial-document-analysis-10k-vectorstore-backed-retrieval.ipynb)
+- 19_financial-document-analysis-10k-langchain.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/19_financial-document-analysis-10k-langchain.ipynb)
