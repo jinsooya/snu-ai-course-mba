@@ -60,3 +60,11 @@ Multi-Agent Systems and Orchestration: Research and Data Analysis Agents
 - 25_agent-channel-preference-analysis-marketing-campaign.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/25_agent-channel-preference-analysis-marketing-campaign.ipynb)
 - 26_agent-churn-risk-prediction-classification-superstore.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/26_agent-churn-risk-prediction-classification-superstore.ipynb)
 - 27_agent-unsupervised-customer-segmentation-k-means-clustering-marketing-campaign.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/27_agent-unsupervised-customer-segmentation-k-means-clustering-marketing-campaign.ipynb)
+
+
+## Class 7
+
+Graph-Based Query and SQL Agents
+
+- 30_sql-workflow-langgraph.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/30_sql-workflow-langgraph.ipynb)
+- 31_simple-sql-agent-runtime-context-and-memory.ipynb [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/jinsooya/snu-ai-course-mba/blob/main/31_simple-sql-agent-runtime-context-and-memory.ipynb)

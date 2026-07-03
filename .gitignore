@@ -13,3 +13,6 @@ env/
 
 # macOS
 .DS_Store
+
+# Cursor (local IDE state)
+.cursor/
